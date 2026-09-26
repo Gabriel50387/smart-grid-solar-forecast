@@ -25,7 +25,10 @@ Python, pandas, scikit-learn, Open-Meteo API, matplotlib, Smart Grid Logic
 ```bash
 pip install -r requirements.txt
 python forecast_v3_live.py
+```
+
 ---
+
 
 **Author:** Gabriel | Aspiring Energy Data Scientist | Yaba, Lagos | Learning in public for PV Power Nigeria Fair 2025
 
