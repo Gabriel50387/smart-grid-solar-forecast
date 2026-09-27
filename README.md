@@ -31,5 +31,13 @@ python forecast.py
 ---
 
 
-**Author:** Gabriel | Aspiring Energy Data Scientist | Yaba, Lagos | Learning in public for PV Power Nigeria Fair 2025
+### Author & Availability
+**Gabriel Agada** | B.Eng Electrical/Electronics (2025), BOUESTI
+Final Year: Design & Construction of 3.5KVA Hybrid Solar Inverter
+
+📍 Residence: Ketu, Lagos (PPA-ready, can resume in Ikeja/Ogudu/Yaba/Surulere)
+📞 08145985335 | 📧 agadagabriel604@gmail.com
+🔗 GitHub: Gabriel50387/smart-grid-solar-forecast
+🎫 PV Power Nigeria 2026 Visitor — Badge VRFi25400
+✅ NYSC PPA Available from Oct 20, 2026 | Interests: Solar Microgrids, Smart Grid Forecasting
 
